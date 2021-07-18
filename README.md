@@ -238,7 +238,7 @@
 1. **원격 저장소 복제**
 
 ```bash
-$ git clone https://github.com/JeongHwan-dev/twitter-clone-coding.git
+$ git clone https://github.com/todak-todak/todak-todak.git
 ```
 
 2. **프로젝트 폴더로 이동**
@@ -278,7 +278,7 @@ $ mongo
 $ cd client
 ```
 
-6. **필요한 node_modules 설치** (client 폴더 안에서)
+6. **필요한 node_modules 설치**
 
 ```bash
 $ npm install
