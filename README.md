@@ -316,10 +316,11 @@
 $ git clone https://github.com/todak-todak/todak-todak.git
 ```
 
-2. **프로젝트 폴더로 이동**
+2. **프로젝트 폴더로 이동 후 서버 폴더로 이동**
 
 ```bash
 $ cd todak-todak
+$ cd medical
 ```
 
 2. **Flask 서버 실행**
