@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./images/todak_logo.png" alt="토닥토닥" height="150px" />
+  <img src="./readme_assets/todak_logo.png" alt="토닥토닥" height="150px" />
   <br />
   <h1>토닥토닥 (Todak-Todak)</h1>
   <a href="https://blackpink.fashion-scanner.site/">
@@ -146,12 +146,12 @@
 
 | [🔗와이어프레임(Wireframe)](https://www.figma.com/file/CluTmxhDDigtZG9rCeXKkE/Storyboard-Draft-Ver0.1?node-id=0%3A1) |
 | :------------------------------------------------------------------------------------------------------------------: |
-|                         <img src="./images/wireframe.png" alt="Wireframe" width="1200px" />                          |
+|                      <img src="./readme_assets/wireframe.png" alt="Wireframe" width="1200px" />                      |
 
 | [🔗아키텍처(Architecture)](https://whimsical.com/codename-wesick-SXPvCHJqfSwQZwzPUPm6z) |
 | :-------------------------------------------------------------------------------------: |
-|        <img src="./images/overall_flow.png" alt="Overall Flow" width="1200px" />        |
-|       <img src="./images/sequence_flow.png" alt="Sequence Flow" width="1200px" />       |
+|    <img src="./readme_assets/overall_flow.png" alt="Overall Flow" width="1200px" />     |
+|   <img src="./readme_assets/sequence_flow.png" alt="Sequence Flow" width="1200px" />    |
 
 <br />
 
