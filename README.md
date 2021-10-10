@@ -188,6 +188,61 @@
 
 ## 👪 개발 팀 소개
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ltxctdbnn">
+        <img src="https://avatars.githubusercontent.com/u/69500903?v=4" alt="황정우 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JeongHwan-dev">
+        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" alt="박정환 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ksy9926">
+        <img src="https://avatars.githubusercontent.com/u/72131649?v=4" alt="김수영 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/insun-kang">
+        <img src="https://avatars.githubusercontent.com/u/82890721?v=4" alt="강인선 프로필" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="./images/profile_sample.jpg" alt="윤수진 프로필" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ltxctdbnn">
+        황정우<br />(PM&Data Analysis)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JeongHwan-dev">
+        박정환<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ksy9926">
+        김수영<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/insun-kang">
+        강인선<br />(Back-end)
+      </a>
+    </td>
+    <td align="center">
+        윤수진<br />(Back-end)
+    </td>
+  </tr>
+</table>
+
+<br />
+
 |  이름  |         역할          |                                            개발 내용                                             |
 | :----: | :-------------------: | :----------------------------------------------------------------------------------------------: |
 | 황정우 | PM<br />Data Analysis | 와이어 프레임 및 아키텍처 작성<br />데이터 분석<br />실시간 데이터 시각화 구현<br /> 백엔드 개발 |
